@@ -5,6 +5,7 @@ import { Link } from "gatsby"
 export default () =>
   <Layout>
     <div>
+      Blog Perso
       <Link to='/post/'>Post Page</Link>
     </div>
   </Layout>
