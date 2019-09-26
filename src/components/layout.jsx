@@ -1,12 +1,10 @@
 import React from "react"
-import './layout.css'
+import "./layout.css"
 
-const layout = ({children}) => {
+const layout = ({ children }) => {
   return (
     <>
-      <main>
-        {children}
-      </main>
+      <main>{children}</main>
     </>
   )
 }
