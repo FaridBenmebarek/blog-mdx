@@ -6,6 +6,11 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: `Blog MDX`,
+    siteUrl: `https://blog-mdx.netlify.com`,
+    description: `Blog utilisant le MarkdownX`,
+  },
   plugins: [
     `gatsby-plugin-mdx`,
     `gatsby-transformer-sharp`,
