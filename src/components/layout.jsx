@@ -11,11 +11,11 @@ const layout = ({ children }) => {
       <div className={styles.template}>
         <p>Réalisé par </p>
         <a
-          href="https://farid-benmebarek.fr"
+          href="http://farid-benmebarek.fr"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Amiral du Web
+          Farid Benmebarek
         </a>
       </div>
     </>
